@@ -4,12 +4,12 @@ body {
 }
 
 header {
-	background: #777;
+	background: #888;
 	padding: 5px 15px;
 
 }
 
-header h1 {
+h1 {
 	color: white;
 	display: inline;
 	
@@ -60,9 +60,42 @@ div.col {
 	
 }
 
+form {
+	background: #888;
+	text-align: center;
+}
+
+input {
+	border-radius: 5px;
+	border-style: none;
+	padding: 5px;
+	margin: 10px;
+	width: 300px;
+
+}
+
+#submit-btn {
+	background: #F09348;
+	border-style: none;
+
+}
+
+#reset-btn {
+	background: #F09348;
+
+}
+
+textarea {
+	border-radius: 5px;
+	margin: 10px;
+	width: 300px;
+	height: 100px;
+
+}
+
 footer {
 	clear: both;
-	background: #777;
+	background: #888;
 	text-align: center;
 	padding: 5px;
 }

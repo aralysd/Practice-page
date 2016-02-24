@@ -1,53 +1,51 @@
 body {
 	margin: 0;
-
 }
 
 header {
 	background: #888;
 	padding: 5px 15px;
-
 }
 
 h1 {
-	color: white;
+	color: #fff;
 	display: inline;
-	
 }
 
-nav, ul {
+nav,
+ul {
 	margin: 0;
 	display: inline;
-	
 }
 
-nav, ul, li {
+nav, 
+ul, 
+li {
 	display: inline-block;
 	padding: 1% 10px;
 	list-style-type: none;
 	float: right;
-
 }
 
-nav, ul, li, a {
-	color: white;
+nav,
+ul,
+li,
+a {
+	color: #fff;
 	text-decoration: none;
-
 }
 
 img {
 	width: 50%;
-
 }
+
 div.row {
 	clear: both;
-
 }
 
 div.image {
 	text-align: center;
 	max-width: 100%;
-
 }
 
 div.col {
@@ -57,7 +55,6 @@ div.col {
 	margin: .5%;
 	padding: .5%;
 	border-radius: 5px;
-	
 }
 
 form {
@@ -71,18 +68,15 @@ input {
 	padding: 5px;
 	margin: 10px;
 	width: 300px;
-
 }
 
 #submit-btn {
 	background: #F09348;
 	border-style: none;
-
 }
 
 #reset-btn {
 	background: #F09348;
-
 }
 
 textarea {
@@ -90,7 +84,6 @@ textarea {
 	margin: 10px;
 	width: 300px;
 	height: 100px;
-
 }
 
 footer {
